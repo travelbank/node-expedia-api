@@ -1,3 +1,6 @@
+# Deprecated, use travelbank/expedia-api instead
+
+
 [![NPM](https://nodei.co/npm/yfb-expedia.png)](https://nodei.co/npm/yfb-expedia/)
 
 This module is a fork of [expedia](https://www.npmjs.com/package/expedia) module that is not maintained anymore.
